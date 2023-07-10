@@ -78,7 +78,7 @@ img{
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    margin: 100px 0;
+    margin: 100px 0 0 0;
     background-size: 200px;
     padding:50px  ;
 }
@@ -89,5 +89,51 @@ img{
     width: 250px;
     height: 250px;
     padding:30px 200px 20px 30px ;
-
 }
+/*fourth part style*/
+.fourth-part{
+ text-align: center;
+    padding-top: 120px;
+}
+.fourth-part .primary-p{
+    padding: 20px 400px;
+}
+.fourth-part-img img{
+    display: inline;
+    width: 170px;
+    height: 200px;
+    align-items: center;
+    margin: 0;
+    padding: 0 70px;
+ }
+ .fourth-part-img .img-one{
+    margin: 0 ;
+    padding-left: 5px 5px 200px;
+ }
+ .fourth-part-img .img-two{
+    padding: 5px 10px;
+  }
+ .fourth-part-img .img-three{
+    padding: 5px 10px 5px 50px;
+
+ }
+ .fourth-part-img .img-four{
+    padding: 5px 10px 5px 150px;
+
+ }
+ /*fifth part*/
+ .fifth-part img{
+    margin: 5px 30px 10px 20px;
+    display: flex;
+    height: 350px;
+    width: 1000px;
+    padding: 60px 280px 60px 110px;
+ }
+ input{
+    font-size: 12px;
+    font-weight: 700px;
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 5px;
+    background-color: rgb(234, 170, 170);
+ }
