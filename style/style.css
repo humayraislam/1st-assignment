@@ -16,7 +16,7 @@ body{
     color: #757575;
     font-size: 11px;
     padding: 20px 0;
-    padding-right:200px 
+    padding-right:50px 
 }
 .banner-content{
     padding: 30px 10px 20px 200px;
@@ -46,7 +46,7 @@ img{
     padding-top: 120px;
 }
 .second-part .primary-p{
-    padding: 20px 500px;
+    padding: 20px 400px;
 }
 .second-part-flower img{
     display: inline;
@@ -80,7 +80,14 @@ img{
     text-align: center;
     margin: 100px 0;
     background-size: 200px;
+    padding:50px  ;
 }
 .third-part .primary-p{
-    padding: 10px 200px;
+    padding: 10px 150px;
+}
+.third-part img{
+    width: 250px;
+    height: 250px;
+    padding:30px 200px 20px 30px ;
+
 }
