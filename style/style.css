@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/*banner related style*/
+.banner{
+    display: flex;
+    background-color: #fdecf0;
+    justify-content: space-between;
+    align-items: center;
+}
+.primary-p{
+    color: #757575;
+    font-size: 11px;
+    padding: 20px 0;
+    padding-right: 200px;
+}
+.banner-content{
+    padding: 30px 10px 20px 200px;
+}
+h1{
+    font-weight: 700px;
+    font-size: 45px;
+}
+.btn-primary{
+    color: white;
+    border-radius: 5px;
+    background-color: #E55473;
+    font-size: 12px;
+    font-weight: 700px;
+    padding: 10px 20px;
+    border: 0;
+
+}
+img{
+    height: 500px;
+    width: 300;
+    padding: 50px 150px 0 20px;
+
+}
