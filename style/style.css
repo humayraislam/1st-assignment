@@ -140,12 +140,12 @@ h1{
     background-color: white;
  }
  .fifth-part{
-      margin: 30px 30px 30px 110px;
+      margin: 80px 60px 80px 80px;
  }
  .centered{
     position: absolute;
-    top: 40%;
-    right: 40%;
+    top: 35%;
+    right: 30%;
     }
     /*last-part*/
 .last-part{
