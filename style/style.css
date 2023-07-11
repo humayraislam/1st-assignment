@@ -103,23 +103,21 @@ h1{
     width: 170px;
     height: 200px;
     align-items: center;
-    margin: 0 ;
-    padding: 0 70px;
-    justify-content: space-between;
- }
- .fourth-part-img .img-one{
-    margin: 0 ;
-    padding-left: 5px 5px 200px;
- }
- .fourth-part-img .img-two{
-    padding: 5px 10px;
-  }
- .fourth-part-img .img-three{
-    padding: 5px 10px 5px 50px;
+    display: flex;
 
  }
- .fourth-part-img .img-four{
-    padding: 5px 10px 5px 150px;
+ .fourth-part-img .img-one{
+    padding: px 0px 0px 0px  ;
+ }
+.fourth-part-img .img-two{
+    padding: px px px 0px;
+  }
+.fourth-part-img .img-three{
+    padding: px 0px px 0px;
+
+ }
+.fourth-part-img .img-four{
+    padding: px 0px px 0px;
 
  }
  /*fifth part*/
@@ -163,4 +161,26 @@ h1{
 #diffrant-p{
     font-size: 8px;
     color: #7a7878;
+}
+/*review part*/
+.review{
+    background-color: #f4dde3;
+    text-align: center;
+    padding: 80px 0;
+    margin-bottom: 80px;
+    text-align: center;
+}
+.review .review-img{
+    width: 220px;
+    height: 150px;
+    padding-top: 20px;
+    padding-right: 80px;
+    padding-left: 100px;
+    display: inline;
+} 
+.review-content{
+    padding: 50px 250px 30px 50px;
+}
+.review-all{
+    display: flex;
 }
