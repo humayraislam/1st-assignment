@@ -57,6 +57,9 @@ h1{
     border-top-right-radius: 170px;
     border-top-left-radius: 170px;
 }
+.second-part-flower div{
+    display: inline-block;
+}
 .second-part-flower{
     text-align: center;
 }
